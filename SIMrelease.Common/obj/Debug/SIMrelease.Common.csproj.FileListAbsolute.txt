@@ -1,0 +1,6 @@
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.dll
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.pdb
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csprojAssemblyReference.cache
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.dll
+D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.pdb
