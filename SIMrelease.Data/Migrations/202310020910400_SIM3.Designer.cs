@@ -7,13 +7,13 @@ namespace SIMrelease.Data.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.0")]
-    public sealed partial class SIM : IMigrationMetadata
+    public sealed partial class SIM3 : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(SIM));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(SIM3));
         
         string IMigrationMetadata.Id
         {
-            get { return "202310011653416_SIM"; }
+            get { return "202310020910400_SIM3"; }
         }
         
         string IMigrationMetadata.Source

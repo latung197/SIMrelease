@@ -88,13 +88,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Migrations\202310011653416_SIM.cs" />
-    <Compile Include="Migrations\202310011653416_SIM.designer.cs">
-      <DependentUpon>202310011653416_SIM.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202310011701131_SIM1.cs" />
-    <Compile Include="Migrations\202310011701131_SIM1.designer.cs">
-      <DependentUpon>202310011701131_SIM1.cs</DependentUpon>
+    <Compile Include="Migrations\202310020910400_SIM3.cs" />
+    <Compile Include="Migrations\202310020910400_SIM3.designer.cs">
+      <DependentUpon>202310020910400_SIM3.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -119,11 +115,8 @@
     <Folder Include="Repositorys\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202310011653416_SIM.resx">
-      <DependentUpon>202310011653416_SIM.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202310011701131_SIM1.resx">
-      <DependentUpon>202310011701131_SIM1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202310020910400_SIM3.resx">
+      <DependentUpon>202310020910400_SIM3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

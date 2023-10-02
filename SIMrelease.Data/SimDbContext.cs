@@ -10,7 +10,7 @@ namespace SIMrelease.Data
 {
     public class SimDbContext:DbContext
     {
-        public SimDbContext() : base("Simconnect")
+        public SimDbContext() : base(nameOrConnectionString:"Simconnect")
         {
             this.Configuration.LazyLoadingEnabled = false;
         }
@@ -36,6 +36,7 @@ namespace SIMrelease.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            //modelBuilder.HasDefaultSchema("public");
             base.OnModelCreating(modelBuilder);
         }
     }

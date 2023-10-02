@@ -102,6 +102,28 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SIMrelease.Common\SIMrelease.Common.csproj">
+      <Project>{1d125e23-05d1-4f57-8053-80f3422b786a}</Project>
+      <Name>SIMrelease.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMrelease.Data\SIMrelease.Data.csproj">
+      <Project>{a3837829-d429-4ddd-83b3-7d798063cc88}</Project>
+      <Name>SIMrelease.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMrelease.Model\SIMrelease.Model.csproj">
+      <Project>{14a7b1e3-3ad8-4f4d-ab56-140160a54ecc}</Project>
+      <Name>SIMrelease.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMrelease.Service\SIMrelease.Service.csproj">
+      <Project>{4540177d-cb41-4f4a-bec3-c4bb9fa53f4d}</Project>
+      <Name>SIMrelease.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMrelease.Web\SIMrelease.Web.csproj">
+      <Project>{ed7b2152-d1c0-4ee3-bda7-3b391b4fe8fb}</Project>
+      <Name>SIMrelease.Web</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
