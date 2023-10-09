@@ -1,18 +1,18 @@
-﻿namespace SIMrelease.Data.Migrations
+﻿namespace Simrelease.Data.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<SIMrelease.Data.SimDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Simrelease.Data.SimDbcontext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(SIMrelease.Data.SimDbContext context)
+        protected override void Seed(Simrelease.Data.SimDbcontext context)
         {
             //  This method will be called after migrating to the latest version.
 

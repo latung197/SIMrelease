@@ -4,16 +4,17 @@ using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SIMrelease.Model.Models;
-
-namespace SIMrelease.Data
+using Simrelease.Models.Models;
+namespace Simrelease.Data
 {
-    public class SimDbContext:DbContext
+    public class SimDbcontext:DbContext
     {
-        public SimDbContext() : base(nameOrConnectionString:"Simconnect")
+        public SimDbcontext():base(nameOrConnectionString: "Conn")
         {
-            this.Configuration.LazyLoadingEnabled = false;
+           
         }
+        public DbSet<Error> errors { get; set; }
+        public DbSet<Dmkh> dmkh { get; set; }
         public DbSet<Footer> Footers { set; get; }
         public DbSet<Menu> Menus { set; get; }
         public DbSet<MenuGroup> MenuGroups { set; get; }
@@ -30,13 +31,9 @@ namespace SIMrelease.Data
         public DbSet<SupportOnline> SupportOnlines { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
         public DbSet<Tag> Tags { set; get; }
-        public DbSet<VisitorStatistic> VisitorStatistics { set; get; }
-        public DbSet<Error> Errors { set; get; }
-        public DbSet<ClientCategory> clientCategories { set; get; }
-
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            //modelBuilder.HasDefaultSchema("public");
+            modelBuilder.HasDefaultSchema("Public");
             base.OnModelCreating(modelBuilder);
         }
     }

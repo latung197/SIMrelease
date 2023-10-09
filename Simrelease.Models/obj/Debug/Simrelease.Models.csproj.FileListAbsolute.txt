@@ -1,0 +1,12 @@
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.dll
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.pdb
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.dll
+C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.pdb

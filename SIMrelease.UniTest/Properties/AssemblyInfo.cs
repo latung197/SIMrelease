@@ -2,18 +2,18 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("SIMrelease.UniTest")]
+[assembly: AssemblyTitle("Simrelease.UniTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SIMrelease.UniTest")]
+[assembly: AssemblyProduct("Simrelease.UniTest")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("04e0317a-dc71-4cf9-9630-4165bcbc35be")]
+[assembly: Guid("5653896c-5a7f-4fd7-bdba-6febf70f9873")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

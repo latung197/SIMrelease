@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace SIMrelease.UniTest
+namespace Simrelease.UniTest
 {
     [TestClass]
     public class UnitTest1

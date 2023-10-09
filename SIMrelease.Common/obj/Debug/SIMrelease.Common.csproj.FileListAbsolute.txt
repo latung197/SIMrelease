@@ -1,12 +1,5 @@
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.pdb
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csprojAssemblyReference.cache
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csproj.CoreCompileInputs.cache
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\bin\Debug\SIMrelease.Common.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csproj.AssemblyReference.cache
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.csproj.CoreCompileInputs.cache
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Common\obj\Debug\SIMrelease.Common.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Common\bin\Debug\Simrelease.Common.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Common\bin\Debug\Simrelease.Common.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.pdb

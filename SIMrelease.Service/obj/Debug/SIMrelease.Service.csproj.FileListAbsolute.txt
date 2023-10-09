@@ -1,36 +1,6 @@
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csprojAssemblyReference.cache
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csproj.CoreCompileInputs.cache
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.dll.config
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.pdb
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Common.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\EntityFramework.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Common.pdb
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.pdb
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.dll.config
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.pdb
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.dll.config
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\bin\Debug\EntityFramework.xml
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csproj.CopyComplete
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.dll
-D:\TongHopKienThuc\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.dll.config
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Service.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Common.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\EntityFramework.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Common.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Data.dll.config
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.pdb
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\SIMrelease.Model.dll.config
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\bin\Debug\EntityFramework.xml
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csproj.AssemblyReference.cache
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csproj.CoreCompileInputs.cache
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.csproj.CopyComplete
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.dll
-D:\Tài Liệu\Source\SIMrelease\SIMrelease.Service\obj\Debug\SIMrelease.Service.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\bin\Debug\Simrelease.Service.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\bin\Debug\Simrelease.Service.pdb
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\obj\Debug\Simrelease.Service.csprojAssemblyReference.cache
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\obj\Debug\Simrelease.Service.csproj.CoreCompileInputs.cache
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\obj\Debug\Simrelease.Service.dll
+D:\TongHopKienThuc\SIMrelease\Simrelease.Service\obj\Debug\Simrelease.Service.pdb
