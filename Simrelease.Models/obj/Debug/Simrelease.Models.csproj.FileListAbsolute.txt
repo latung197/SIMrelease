@@ -10,3 +10,9 @@ C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.dll
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\bin\Debug\Simrelease.Models.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Models\obj\Debug\Simrelease.Models.pdb

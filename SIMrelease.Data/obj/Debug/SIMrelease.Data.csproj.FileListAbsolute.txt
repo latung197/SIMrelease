@@ -77,3 +77,43 @@ C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.cspr
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.dll
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.pdb
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.Simdb2.resources
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.SimDB.resources
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.Simdb2.resources
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.GenerateResource.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.dll.config
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Npgsql.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Models.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Buffers.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Memory.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Numerics.Vectors.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Json.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.ValueTuple.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Models.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Npgsql.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Npgsql.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Buffers.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Memory.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Numerics.Vectors.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Json.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.CopyComplete

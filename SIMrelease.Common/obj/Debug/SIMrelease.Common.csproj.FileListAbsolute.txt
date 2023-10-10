@@ -3,3 +3,9 @@ D:\TongHopKienThuc\SIMrelease\Simrelease.Common\bin\Debug\Simrelease.Common.pdb
 D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.csproj.CoreCompileInputs.cache
 D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.dll
 D:\TongHopKienThuc\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\bin\Debug\Simrelease.Common.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\bin\Debug\Simrelease.Common.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Common\obj\Debug\Simrelease.Common.pdb

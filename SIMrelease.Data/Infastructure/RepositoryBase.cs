@@ -10,7 +10,6 @@ namespace Simrelease.Data.Infastructure
 {
     public abstract class RepositoryBase<T> : IRepository<T> where T : class
     {
-
         private SimDbcontext dataContext;
         private readonly IDbSet<T> dbSet;
         protected IDbFactory DbFactory
@@ -22,39 +21,32 @@ namespace Simrelease.Data.Infastructure
         {
             get { return dataContext ?? (dataContext = DbFactory.Init()); }
         }
-
         protected  RepositoryBase(IDbFactory dbFactory)
         {
             DbFactory = dbFactory;
             dbSet = DbContext.Set<T>();
         }
-
         public T Add(T entity)
         {
             return dbSet.Add(entity);
         }
-
         public bool CheckContains(Expression<Func<T, bool>> predicate)
         {
             return dataContext.Set<T>().Count<T>(predicate) > 0;
         }
-
         public int Count(Expression<Func<T, bool>> where)
         {
             return dbSet.Count(where);
         }
-
         public T Delete(T entity)
         {
             return dbSet.Remove(entity);
         }
-
         public T Delete(string id)
         {
             var entity = dbSet.Find(id);
             return dbSet.Remove(entity);
         }
-
         public void DeleteMulti(Expression<Func<T, bool>> where)
         {
             IEnumerable <T> objects = dbSet.Where<T>(where).AsEnumerable();
@@ -63,7 +55,6 @@ namespace Simrelease.Data.Infastructure
                 dbSet.Remove(obj);
             }
         }
-
         public IEnumerable<T> GetAll(string[] includes = null)
         {
             //HANDLE INCLUDES FOR ASSOCIATED OBJECTS IF APPLICABLE
@@ -77,7 +68,6 @@ namespace Simrelease.Data.Infastructure
 
             return dataContext.Set<T>().AsQueryable();
         }
-
         public IEnumerable<T> GetMulti(Expression<Func<T, bool>> predicate, string[] includes = null)
         {
             //HANDLE INCLUDES FOR ASSOCIATED OBJECTS IF APPLICABLE
@@ -88,10 +78,8 @@ namespace Simrelease.Data.Infastructure
                     query = query.Include(include);
                 return query.Where<T>(predicate).AsQueryable<T>();
             }
-
             return dataContext.Set<T>().Where<T>(predicate).AsQueryable<T>();
         }
-
         public IEnumerable<T> GetMultiPaging(Expression<Func<T, bool>> predicate, out int total, int index = 0, int size = 50, string[] includes = null)
         {
             int skipCount = index * size;
@@ -114,7 +102,6 @@ namespace Simrelease.Data.Infastructure
             total = _resetSet.Count();
             return _resetSet.AsQueryable();
         }
-
         public T GetSingleByCondition(Expression<Func<T, bool>> expression, string[] includes = null)
         {
             if (includes != null && includes.Count() > 0)
@@ -126,18 +113,15 @@ namespace Simrelease.Data.Infastructure
             }
             return dataContext.Set<T>().FirstOrDefault(expression);
         }
-
         public T GetSingleById(string id)
         {
             return dbSet.Find(id);
         }
-
         public void Update(T entity)
         {
             dbSet.Attach(entity);
             dataContext.Entry(entity).State = EntityState.Modified;
         }
-
         public virtual IEnumerable<T> GetMany(Expression<Func<T, bool>> where, string includes)
         {
             return dbSet.Where(where).ToList();

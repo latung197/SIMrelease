@@ -91,7 +91,9 @@
     <Compile Include="Infastructure\Disposable.cs" />
     <Compile Include="Infastructure\IDbFactory.cs" />
     <Compile Include="Infastructure\IRepository.cs" />
+    <Compile Include="Infastructure\IUnitOfWork.cs" />
     <Compile Include="Infastructure\RepositoryBase.cs" />
+    <Compile Include="Infastructure\UnitOfwork.cs" />
     <Compile Include="Migrations\202310091546517_SimDB.cs" />
     <Compile Include="Migrations\202310091546517_SimDB.designer.cs">
       <DependentUpon>202310091546517_SimDB.cs</DependentUpon>
@@ -102,6 +104,24 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorys\ErrorRepository.cs" />
+    <Compile Include="Repositorys\FooterRepository.cs" />
+    <Compile Include="Repositorys\MenuGroupRepository.cs" />
+    <Compile Include="Repositorys\MenuRepository.cs" />
+    <Compile Include="Repositorys\OrderDetailRepository.cs" />
+    <Compile Include="Repositorys\OrderRepository.cs" />
+    <Compile Include="Repositorys\PageRepository.cs" />
+    <Compile Include="Repositorys\PostCategryRepository.cs" />
+    <Compile Include="Repositorys\PostRepository.cs" />
+    <Compile Include="Repositorys\PostTagRepository.cs" />
+    <Compile Include="Repositorys\ProductCategoryRepository.cs" />
+    <Compile Include="Repositorys\ProductRepository.cs" />
+    <Compile Include="Repositorys\ProductTagRepository.cs" />
+    <Compile Include="Repositorys\SlideRepository.cs" />
+    <Compile Include="Repositorys\SupportOnlineRepository.cs" />
+    <Compile Include="Repositorys\SystemConfigRepository.cs" />
+    <Compile Include="Repositorys\TagRepository.cs" />
+    <Compile Include="Repositorys\VisitorStatisticRepository.cs" />
     <Compile Include="SimDbcontext.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -122,9 +142,7 @@
       <DependentUpon>202310091615189_Simdb2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repositorys\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

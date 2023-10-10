@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Simrelease.Models.Model.Model
+namespace Simrelease.Models.Models
 {
     [Table("VisitorStatistics")]
     public class VisitorStatistic

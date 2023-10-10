@@ -11,3 +11,29 @@ D:\TongHopKienThuc\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.cs
 D:\TongHopKienThuc\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.csproj.CopyComplete
 D:\TongHopKienThuc\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.dll
 D:\TongHopKienThuc\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.UniTest.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.UniTest.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.csproj.CopyComplete
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\obj\Debug\Simrelease.UniTest.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Common.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Data.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Models.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Service.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\EntityFramework.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Common.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Data.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Data.dll.config
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Models.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Service.pdb
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\Simrelease.Service.dll.config
+D:\Tài Liệu\Source\SIMrelease\Simrelease.UniTest\bin\Debug\EntityFramework.xml
