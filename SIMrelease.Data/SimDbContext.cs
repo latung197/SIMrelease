@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
+using System.Data.Entity.Migrations.Model;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Npgsql;
 using Simrelease.Models.Models;
 namespace Simrelease.Data
 {
+    //[DbConfigurationType(typeof(Configuration))]
     public class SimDbcontext:DbContext
     {
         public SimDbcontext():base(nameOrConnectionString: "Conn")
@@ -31,10 +35,41 @@ namespace Simrelease.Data
         public DbSet<SupportOnline> SupportOnlines { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
         public DbSet<Tag> Tags { set; get; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("Public");
+            modelBuilder.Entity<Department>()
+                .Property(p => p.Version)
+                    .HasColumnName("xmin")
+                    .HasColumnType("text")
+                    .IsConcurrencyToken()
+                    .HasDatabaseGeneratedOption(DatabaseGeneratedOption.Computed);
             base.OnModelCreating(modelBuilder);
         }
     }
 }
+
+
+
+
+//internal class Configuration : DbConfiguration
+//{
+//    public Configuration()
+//    {
+//        SetMigrationSqlGenerator("Npgsql", () => new SqlGenerator());
+        
+//    }
+//}
+
+//public class SqlGenerator : NpgsqlMigrationSqlGenerator
+//{
+//    private readonly string[] systemColumnNames = { "oid", "tableoid", "xmin", "cmin", "xmax", "cmax", "ctid" };
+
+//    protected override void Convert(CreateTableOperation createTableOperation)
+//    {
+//        var systemColumns = createTableOperation.Columns.Where(x => systemColumnNames.Contains(x.Name)).ToArray();
+//        foreach (var systemColumn in systemColumns)
+//            createTableOperation.Columns.Remove(systemColumn);
+//        base.Convert(createTableOperation);
+//    }
+//}

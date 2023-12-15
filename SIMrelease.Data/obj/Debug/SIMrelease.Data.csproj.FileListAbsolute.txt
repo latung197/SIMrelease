@@ -77,13 +77,6 @@ C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.cspr
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.dll
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.pdb
 C:\Users\Admin\Desktop\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.Simdb2.resources
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.AssemblyReference.cache
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.SimDB.resources
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.Migrations.Simdb2.resources
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.GenerateResource.cache
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.CoreCompileInputs.cache
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.dll
-D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.pdb
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.dll.config
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.dll
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\Simrelease.Data.pdb
@@ -116,4 +109,8 @@ D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Encodings
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Text.Json.xml
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\bin\Debug\System.ValueTuple.xml
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.AssemblyReference.cache
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.CoreCompileInputs.cache
 D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.csproj.CopyComplete
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.dll
+D:\Tài Liệu\Source\SIMrelease\Simrelease.Data\obj\Debug\Simrelease.Data.pdb

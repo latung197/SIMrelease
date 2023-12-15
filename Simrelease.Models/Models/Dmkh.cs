@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Simrelease.Models.Abstract;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -9,10 +10,10 @@ using System.Threading.Tasks;
 namespace Simrelease.Models.Models
 {
     [Table("Dmkh")]
-    public class Dmkh
+    public class Dmkh: AudiTable
     {
         [Key]
-        [Column(TypeName = "varchar", Order = 1)]
+        [Column(Order = 1)]
         [MaxLength(25)]
         public string Ma_kh { get; set; }
         public string Ten_kh { get; set; }

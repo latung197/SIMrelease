@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Abstract\AudiTable.cs" />
     <Compile Include="Abstract\IAudiTable.cs" />
+    <Compile Include="Models\Department.cs" />
     <Compile Include="Models\Dmkh.cs" />
     <Compile Include="Models\Error.cs" />
     <Compile Include="Models\Footer.cs" />
